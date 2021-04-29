@@ -1,0 +1,1 @@
+["350.00 \u00b0 Fahrenheit ist 176.67 \u00b0 Celsius \n", "3.50 Cups sind 875.00 Milliliter \n", "3.20 Pfund sind 1451.49 Gramm \n", "100.00 \u00b0 Fahrenheit ist 37.78 \u00b0 Celsius"]
