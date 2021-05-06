@@ -12,7 +12,6 @@ population_by_continent = {
     'oceania': [12, 15, 19, 22, 26, 31, 36, 39],
 }
 
-
 fig, ax = plt.subplots()
 ax.stackplot(year, population_by_continent.values(),
              labels=population_by_continent.keys())
